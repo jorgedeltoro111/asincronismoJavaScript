@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Es este proyecto tiene como objetivo principal el obtener de manera sólida los conceptos completos acerca del asincronismo en javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jorge enrique ingjorgedeltoro@gmail.com",
+  "license": "MIT"
+}
