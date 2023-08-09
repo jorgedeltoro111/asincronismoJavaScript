@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "jorge enrique ingjorgedeltoro@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
